@@ -1,8 +1,8 @@
 EmailTemplateTutorial
 =====================
 
-A brief tutorial on how to change your Email html into Jinja templates so that HubSpot Customers can customize them in their email tool.
+A brief tutorial on how to change your raw Email html into a Hubspot customizable Jinja template. Static Template is the file where the raw email html lives and after changing the fields specified, the final result is the jinja template.
 
-Static Template is the file where it is the raw html email code. 
+The numbered fields show which parts of the template have been changed to use the Hubspot-specified jinja tags.
 
-The Jinja template is the finalized version of the Email code with tags that allow it to be customized in Hubspot's tool.
+If you have any questions, feel free to email ehsiao@hubspot.com
